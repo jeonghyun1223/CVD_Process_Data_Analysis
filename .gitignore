@@ -1,0 +1,32 @@
+# API keys and secrets
+
+.env
+.env.*
+*.key
+secrets.json
+credentials.json
+
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# Virtual environment
+
+venv/
+.venv/
+env/
+
+# OS
+
+.DS_Store
+
+# IDE
+
+.vscode/
+.idea/
